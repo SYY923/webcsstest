@@ -6,6 +6,9 @@ body,div,ul,li,dl,dt,ol,h1,h2,h3,h4,h5,h6,input,fieldset,legend,p,select,table,t
 a {color: #222; text-decoration: none;}
 a:hover {color: #390;}
 
+/* 블릿 기호 초기화*/
+dl,ul,ol,li,menu {list-style: none;}
+
 /*font reset*/
 body, input, textarea, select, button, table {
    font-family: 'Nanum Gothic', AppleSDGothicNeo-Regular,'Malgun Gothic','맑은 고딕',dotum,'돋움',sans-serif; 
